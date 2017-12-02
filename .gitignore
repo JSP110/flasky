@@ -47,3 +47,6 @@ venv
 *.iml
 .idea/misc.xml
 .idea/vcs.xml
+.idea/modules.xml
+.idea/inspectionProfiles/Project_Default.xml
+.idea/workspace.xml
